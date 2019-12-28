@@ -1,11 +1,12 @@
 ---
-layout: post
-title:  "Integrating razorpay into your webapp"
+layout: test_name
+title:  "Jekyll Theme 적용 테스트"
 date:   2019-03-23 21:03:36 +0530
-categories: Javascript NodeJS
+categories: Python
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+포스트 본문 입력 테스트 마크다운 인식하는거같다 신기해..
 
+링크 거는법은 몰랐는데 데모용 포스트 참고하면 되겠다 
 ```javascript
 const Razorpay = require('razorpay');
 
