@@ -20,7 +20,7 @@ plainwhite:
   # generate social links in footer
   social_links:
     twitter: thelehhman
-    github: https://github.com/warapaso 
+    github: warapaso
     #linkedIn: 
     #rss: rss
     # dribbble: jekyll
