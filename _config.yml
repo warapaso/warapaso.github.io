@@ -13,13 +13,13 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: warapaso
-  tagline: 개발자가 되고싶은 나
+  tagline:  
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
 
   # generate social links in footer
   social_links:
-    twitter: thelehhman
+    #twitter: thelehhman
     github: warapaso
     #linkedIn: 
     #rss: rss

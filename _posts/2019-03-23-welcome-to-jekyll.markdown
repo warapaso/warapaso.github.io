@@ -1,11 +1,6 @@
 ---
 layout: post
-title:  "Jekyll Theme 적용 테스트"
-date:   2019-03-23 21:03:36 +0530
-categories: Python
----
-포스트 본문 입력 테스트 마크다운 인식하는거같다 신기해..
-링크 거는법은 몰랐는데 데모용 포스트 참고하면 되겠다
-레이아웃을 변경했더니 썡 html페이지가 출력됐다
-완전 처음해보는 티가 나는군
-
+title:  "Github Page 시작"
+date:   2020-01-02 16:32:02 +0530 
+#categories: 
+--- 
